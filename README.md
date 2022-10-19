@@ -1,7 +1,6 @@
 # ASCII_Art
-Text to ASCII Art Generator
+_How to turn your text into ASCII Art_
 
-_ASCII Art Generator_
 ```                                                                                                                                                      
       ___           ___           ___                             
      /\  \         /\  \         /\  \          ___         ___   
@@ -19,7 +18,7 @@ _ASCII Art Generator_
 ```
 
 ### SUMMARY
-Small script turning your text to ASCII Art. 
+Small script turning your text into ASCII Art. 
 
 ### HOW IT WORKS
 * Double click on **ASCII_Art** :
